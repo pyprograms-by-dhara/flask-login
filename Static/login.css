@@ -1,0 +1,46 @@
+.btn{
+    outline:outside;
+    color:white;
+    background-color:brown;
+    font-size:12px;
+    padding:10px;
+    border-radius:18px;
+    width:180px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+
+}
+.header{
+    outline:ridge;
+    font-size:20px;
+    color:#990866;
+    text-shadow:2px 2px white ;
+
+    
+}
+
+.word{
+    margin-top:15px;
+}
+body{
+    margin: auto;
+}
+.container{
+    background-color:pink;
+    height:50%;
+    width:50%;
+    align:center;
+    margin-left: 100px;
+    padding: 10px;
+    
+
+}
+.border{
+    height:50%;
+    width:60%;
+
+}
+.msg{
+    outline: #990866;
+    color:blue;
+}
